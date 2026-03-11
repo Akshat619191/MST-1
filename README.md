@@ -1,16 +1,18 @@
-# React + Vite
+Name: Akshat
+UID: 23BDA70066
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learning Outcomes:-
 
-Currently, two official plugins are available:
+Understand the basic structure of a React application using Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Learn how to create and use functional components in React.
 
-## React Compiler
+Understand the concept of state management using the useState hook.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Learn how to handle user events such as button clicks using onClick.
 
-## Expanding the ESLint configuration
+Understand how to pass data between components using props.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Learn how React automatically updates the user interface when the state changes.
+
+Gain practical experience in building a simple notification system using React components.
